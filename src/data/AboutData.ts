@@ -8,6 +8,6 @@ interface AboutType {
 export const AboutData: AboutType = {
   firstName: "Ugurcan",
   lastName: "SARICI",
-  about1: "<A Developer who loves to build cool things />",
+  about1: "<A Developer who loves to build cool things for Web />",
   about2: "<Frontend Developer />",
 };
