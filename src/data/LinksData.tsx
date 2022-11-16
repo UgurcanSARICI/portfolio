@@ -1,6 +1,6 @@
 import { ImGithub, ImLinkedin } from "react-icons/im";
 import { FaTwitter } from "react-icons/fa";
-import { SiInstagram } from "react-icons/si";
+import { SiInstagram, SiGmail } from "react-icons/si";
 
 interface LinksType {
   title: string;
@@ -11,22 +11,22 @@ interface LinksType {
 export const LinksData: LinksType[] = [
   {
     title: "GitHub",
-    icon: <ImGithub color='#000000dc' />,
-    link: "https://github.com/erfjs",
+    icon: <ImGithub color="#000000dc" />,
+    link: "https://github.com/UgurcanSARICI",
   },
   {
     title: "LinkedIn",
-    icon: <ImLinkedin color='#000000dc' />,
-    link: "https://www.linkedin.com/in/erfan-granmayeh",
+    icon: <ImLinkedin color="#000000dc" />,
+    link: "https://www.linkedin.com/in/ugurcansarici/",
   },
-  {
-    title: "Twitter",
-    icon: <FaTwitter color='#000000dc' />,
-    link: "https://twitter.com/erfan_grr",
-  },
-  {
-    title: "Instagram",
-    icon: <SiInstagram color='#000000dc' />,
-    link: "https://www.instagram.com/erfan_grr",
-  },
+  // {
+  //   title: "Gmail",
+  //   icon: <SiGmail color="#000000dc" />,
+  //   link: "",
+  // },
+  // {
+  //   title: "Instagram",
+  //   icon: <SiInstagram color="#000000dc" />,
+  //   link: "",
+  // },
 ];
