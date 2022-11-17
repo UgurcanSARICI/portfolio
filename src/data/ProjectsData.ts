@@ -47,7 +47,7 @@ export const ProjectsData: ProjectsType[] = [
   {
     title: "Recipe App with Styled Component",
     description: `React/ Styled Component/ Axios/ Private Router/ useNavigate/ useLocation/ useParams`,
-    image: ``,
+    image: `https://github.com/UgurcanSARICI/recipe-style-app/blob/main/recipe.gif?raw=true`,
     GitHub: "https://github.com/UgurcanSARICI/recipe-style-app",
     hosted: "https://recipe-style-app.vercel.app/",
   },
