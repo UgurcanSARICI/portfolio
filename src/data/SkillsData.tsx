@@ -10,6 +10,8 @@ import {
   SiMaterialui,
   SiPwa,
   SiElectron,
+  SiTailwindcss,
+  SiStyledcomponents,
 } from "react-icons/si";
 import { AiFillAndroid } from "react-icons/ai";
 import { ImGit } from "react-icons/im";
@@ -91,5 +93,15 @@ export const SkillsData: SkillsType[] = [
     name: "Postman",
     icon: <SiPostman color="#000000dc" />,
     link: "https://www.postman.com/",
+  },
+  {
+    name: "Tailwind",
+    icon: <SiTailwindcss color="#000000dc" />,
+    link: "https://tailwindcss.com/",
+  },
+  {
+    name: "Tailwind",
+    icon: <SiStyledcomponents color="#000000dc" />,
+    link: "https://styled-components.com/",
   },
 ];
