@@ -8,6 +8,13 @@ interface ProjectsType {
 
 export const ProjectsData: ProjectsType[] = [
   {
+    title: "E Commerse Stock App",
+    description: `React / Firebase / Tailwind/ React Router DOM/ Axios / useContext / useEffect/ useState`,
+    image: `https://github.com/UgurcanSARICI/stock_app/blob/main/stock.gif?raw=true`,
+    GitHub: "https://github.com/UgurcanSARICI/stock_app",
+    hosted: "https://stock-app-us.vercel.app/",
+  },
+  {
     title: "Movie App",
     description: `React / Firebase / Tailwind/ React Router DOM/ Axios / useContext / useEffect/ useState`,
     image: `https://github.com/UgurcanSARICI/react_movie_app/blob/main/movie.gif?raw=true`,
