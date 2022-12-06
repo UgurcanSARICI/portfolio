@@ -9,7 +9,7 @@ interface ProjectsType {
 export const ProjectsData: ProjectsType[] = [
   {
     title: "E Commerse Stock App",
-    description: `React / Firebase / Tailwind/ React Router DOM/ Axios / useContext / useEffect/ useState`,
+    description: `React / Firebase / Material UI/ React Router DOM/ Tremor / Toastify / Redux-Persist/ Formik,Yup`,
     image: `https://github.com/UgurcanSARICI/stock_app/blob/main/stock.gif?raw=true`,
     GitHub: "https://github.com/UgurcanSARICI/stock_app",
     hosted: "https://stock-app-us.vercel.app/",
